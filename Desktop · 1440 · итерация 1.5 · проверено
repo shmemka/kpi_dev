@@ -1,0 +1,357 @@
+<div data-layer="Desktop · 1440 · итерация 1.5 · проверено" class="Desktop144015" style="width: 1440px; background: #111313; overflow: hidden; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+  <div data-layer="01 / Навигация" style="width: 1440px; padding-left: 64px; padding-right: 64px; padding-top: 24px; padding-bottom: 24px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+    <div data-layer="Навигация / строка" style="width: 1312px; justify-content: space-between; align-items: center; display: inline-flex">
+      <div data-layer="Логотип и разделы" style="width: 408px; justify-content: flex-start; align-items: center; gap: 40px; display: flex">
+        <div data-layer="kpi_dev" class="KpiDev" style="width: 144px; color: #F4F5EF; font-size: 28px; font-family: Manrope; font-weight: 600; line-height: 36px; word-wrap: break-word">kpi_dev</div>
+        <div data-layer="Услуги ↓" style="width: 88px; color: #F4F5EF; font-size: 14px; font-family: Manrope; font-weight: 500; line-height: 20px; word-wrap: break-word">Услуги ↓</div>
+        <div data-layer="Проекты" style="width: 88px; color: #F4F5EF; font-size: 14px; font-family: Manrope; font-weight: 500; line-height: 20px; word-wrap: break-word">Проекты</div>
+      </div>
+      <div data-layer="Обращение" style="width: 564px; justify-content: flex-start; align-items: flex-start; gap: 16px; display: flex">
+        <div data-layer="Кнопка / Опишите задачу — предложим решение" style="width: 340px; height: 52px; background: #232725; border-radius: 26px; justify-content: center; align-items: center; display: flex">
+          <div data-layer="Опишите задачу — предложим решение" style="width: 308px; text-align: center; color: #F4F5EF; font-size: 14px; font-family: Manrope; font-weight: 600; line-height: 20px; word-wrap: break-word">Опишите задачу — предложим решение</div>
+        </div>
+        <div data-layer="Кнопка / Обсудить проект ↗" style="width: 208px; height: 52px; background: #F4F5EF; border-radius: 26px; justify-content: center; align-items: center; display: flex">
+          <div data-layer="Обсудить проект ↗" style="width: 176px; text-align: center; color: #111313; font-size: 14px; font-family: Manrope; font-weight: 600; line-height: 20px; word-wrap: break-word">Обсудить проект →</div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div data-layer="02 / Первый экран" style="width: 1440px; padding-left: 64px; padding-right: 64px; padding-top: 56px; padding-bottom: 56px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 36px; display: flex">
+    <div data-layer="KPI_DEV / ПРИЛОЖЕНИЯ, САЙТЫ И АВТОМАТИЗАЦИЯ" class="KpiDev" style="width: 1312px; color: #D5F77A; font-size: 12px; font-family: Manrope; font-weight: 600; line-height: 18px; letter-spacing: 0.96px; word-wrap: break-word">KPI_DEV / ПРИЛОЖЕНИЯ, САЙТЫ И АВТОМАТИЗАЦИЯ</div>
+    <div data-layer="Заголовок и описание" style="width: 1312px; justify-content: flex-start; align-items: flex-start; gap: 64px; display: inline-flex">
+      <div data-layer="Разрабатываем приложения. Автоматизируем работу бизнеса." style="width: 816px; color: #F4F5EF; font-size: 54px; font-family: Manrope; font-weight: 500; line-height: 64px; word-wrap: break-word">Разрабатываем приложения.<br/>Автоматизируем<br/>работу бизнеса.</div>
+      <div data-layer="Описание и действие" style="width: 432px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 28px; display: inline-flex">
+        <div data-layer="Создаём сервисы для клиентов и инструменты для команды. Связываем заявки, заказы" style="width: 432px; color: #A4ABA5; font-size: 18px; font-family: Manrope; font-weight: 400; line-height: 28px; word-wrap: break-word">Создаём сервисы для клиентов и инструменты для команды. Связываем заявки, заказы и данные с вашими системами — от разбора задачи до запуска.</div>
+        <div data-layer="Кнопка / Смотреть проекты ↓" style="width: 218px; height: 52px; background: #232725; border-radius: 26px; justify-content: center; align-items: center; display: inline-flex">
+          <div data-layer="Смотреть проекты ↓" style="width: 186px; text-align: center; color: #F4F5EF; font-size: 14px; font-family: Manrope; font-weight: 600; line-height: 20px; word-wrap: break-word">Смотреть проекты ↓</div>
+        </div>
+      </div>
+    </div>
+    <div data-layer="От идеи к продукту / графика" style="width: 1312px; height: 220px; position: relative; background: #1B1E1D; border-radius: 24px">
+      <div data-layer="ОТ ПЕРВОЙ ИДЕИ" style="width: 820px; left: 32px; top: 30px; position: absolute; color: #D5F77A; font-size: 12px; font-family: Manrope; font-weight: 600; line-height: 18px; word-wrap: break-word">ОТ ПЕРВОЙ ИДЕИ</div>
+      <div data-layer="К удобному инструменту для вашего бизнеса." style="width: 830px; left: 32px; top: 76px; position: absolute; color: #F4F5EF; font-size: 34px; font-family: Manrope; font-weight: 500; line-height: 44px; word-wrap: break-word">К удобному инструменту<br/>для вашего бизнеса.</div>
+      <div data-layer="Орбита" style="width: 164px; height: 95.12px; left: 1052px; top: 76px; position: absolute; border-radius: 9999px; border: 1.50px #D5F77A solid"></div>
+      <div data-layer="Орбита" style="width: 95.12px; height: 164px; left: 1086.44px; top: 43.20px; position: absolute; border-radius: 9999px; border: 1.50px #D5F77A solid"></div>
+      <div data-svg-wrapper data-layer="Ellipse" class="Ellipse" style="left: 1191.40px; top: 88px; position: absolute">
+        <svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <circle cx="7" cy="7" r="7" fill="#D5F77A"/>
+        </svg>
+      </div>
+      <div data-layer="Орбита" style="width: 116px; height: 67.28px; left: 1020px; top: 62px; position: absolute; border-radius: 9999px; border: 1.50px #B9A7E8 solid"></div>
+      <div data-layer="Орбита" style="width: 67.28px; height: 116px; left: 1044.36px; top: 38.80px; position: absolute; border-radius: 9999px; border: 1.50px #B9A7E8 solid"></div>
+      <div data-svg-wrapper data-layer="Ellipse" class="Ellipse" style="left: 1118.60px; top: 74px; position: absolute">
+        <svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <circle cx="7" cy="7" r="7" fill="#B9A7E8"/>
+        </svg>
+      </div>
+    </div>
+  </div>
+  <div data-layer="03 / Проекты" style="width: 1440px; padding: 64px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 36px; display: flex">
+    <div data-layer="Заголовок и описание" style="width: 1312px; justify-content: flex-start; align-items: flex-start; gap: 80px; display: inline-flex">
+      <div data-layer="Заголовок" style="width: 696px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 18px; display: inline-flex">
+        <div data-layer="01 / ПРОЕКТЫ" style="width: 696px; color: #D5F77A; font-size: 12px; font-family: Manrope; font-weight: 600; line-height: 18px; letter-spacing: 0.96px; word-wrap: break-word">01 / ПРОЕКТЫ</div>
+        <div data-layer="Опыт команды в цифровых продуктах" style="width: 696px; color: #F4F5EF; font-size: 42px; font-family: Manrope; font-weight: 500; line-height: 50px; word-wrap: break-word">Опыт команды<br/>в цифровых продуктах</div>
+      </div>
+      <div data-layer="Описание" style="width: 536px; padding-top: 36px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+        <div data-layer="Приложения, интеграции и AI-инструменты для разных бизнес-задач." class="Ai" style="width: 536px; color: #A4ABA5; font-size: 18px; font-family: Manrope; font-weight: 400; line-height: 28px; word-wrap: break-word">Приложения, интеграции и AI-инструменты для разных бизнес-задач.</div>
+      </div>
+    </div>
+    <div data-layer="Фильтры проектов" style="width: 1312px; justify-content: flex-start; align-items: flex-start; gap: 12px; display: inline-flex">
+      <div data-layer="Метка / Все · 6" class="6" style="width: 100px; height: 34px; background: #D5F77A; border-radius: 17px; justify-content: center; align-items: center; display: flex">
+        <div data-layer="Все · 6" class="6" style="width: 80px; text-align: center; color: #111313; font-size: 12px; font-family: Manrope; font-weight: 500; line-height: 18px; word-wrap: break-word">Все · 6</div>
+      </div>
+      <div data-layer="Метка / Приложения · 3" class="3" style="width: 168px; height: 34px; background: #232725; border-radius: 17px; justify-content: center; align-items: center; display: flex">
+        <div data-layer="Приложения · 3" class="3" style="width: 148px; text-align: center; color: #F4F5EF; font-size: 12px; font-family: Manrope; font-weight: 500; line-height: 18px; word-wrap: break-word">Приложения · 3</div>
+      </div>
+      <div data-layer="Метка / Автоматизация · 2" class="2" style="width: 184px; height: 34px; background: #232725; border-radius: 17px; justify-content: center; align-items: center; display: flex">
+        <div data-layer="Автоматизация · 2" class="2" style="width: 164px; text-align: center; color: #F4F5EF; font-size: 12px; font-family: Manrope; font-weight: 500; line-height: 18px; word-wrap: break-word">Автоматизация · 2</div>
+      </div>
+      <div data-layer="Метка / AI-решения · 2" class="Ai2" style="width: 158px; height: 34px; background: #232725; border-radius: 17px; justify-content: center; align-items: center; display: flex">
+        <div data-layer="AI-решения · 2" class="Ai2" style="width: 138px; text-align: center; color: #F4F5EF; font-size: 12px; font-family: Manrope; font-weight: 500; line-height: 18px; word-wrap: break-word">AI-решения · 2</div>
+      </div>
+    </div>
+    <div data-layer="Проекты / ряд 1" class="1" style="width: 1312px; justify-content: flex-start; align-items: flex-start; gap: 20px; display: inline-flex">
+      <div data-layer="Проект / AI-аналитик для бизнеса" class="Ai" style="width: 424px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+        <div data-layer="Превью / AI-аналитик для бизнеса" class="Ai" style="width: 424px; height: 238px; position: relative; background: #D5F77A; overflow: hidden; border-radius: 16px">
+          <div data-layer="AI-аналитик для бизнеса" class="Ai" style="width: 376px; left: 24px; top: 22px; position: absolute; color: #111313; font-size: 18px; font-family: Manrope; font-weight: 600; line-height: 26px; word-wrap: break-word">AI-аналитик для бизнеса</div>
+          <div data-layer="Плейсхолдер интерфейса" style="width: 376px; height: 188px; left: 24px; top: 70px; position: absolute; background: #F4F5EF; border-radius: 10px">
+            <div data-svg-wrapper data-layer="Столбец данных" style="left: 24px; top: 120px; position: absolute">
+              <svg width="33" height="30" viewBox="0 0 33 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <rect width="32.8571" height="30" rx="4" fill="#111313"/>
+              </svg>
+            </div>
+            <div data-svg-wrapper data-layer="Столбец данных" style="left: 70.86px; top: 109px; position: absolute">
+              <svg width="33" height="41" viewBox="0 0 33 41" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <rect width="32.8571" height="41" rx="4" fill="#111313"/>
+              </svg>
+            </div>
+            <div data-svg-wrapper data-layer="Столбец данных" style="left: 117.71px; top: 98px; position: absolute">
+              <svg width="33" height="52" viewBox="0 0 33 52" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <rect width="32.8571" height="52" rx="4" fill="#111313"/>
+              </svg>
+            </div>
+            <div data-svg-wrapper data-layer="Столбец данных" style="left: 164.57px; top: 87px; position: absolute">
+              <svg width="33" height="63" viewBox="0 0 33 63" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <rect width="32.8571" height="63" rx="4" fill="#111313"/>
+              </svg>
+            </div>
+            <div data-layer="Столбец данных" style="width: 32.86px; height: 74px; left: 211.43px; top: 76px; position: absolute; background: #111313; border-radius: 4px"></div>
+            <div data-layer="Столбец данных" style="width: 32.86px; height: 85px; left: 258.29px; top: 65px; position: absolute; background: #111313; border-radius: 4px"></div>
+            <div data-layer="Столбец данных" style="width: 32.86px; height: 96px; left: 305.14px; top: 54px; position: absolute; background: #111313; border-radius: 4px"></div>
+          </div>
+        </div>
+        <div data-layer="Описание проекта" style="width: 424px; padding-top: 24px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 12px; display: flex">
+          <div data-layer="AI-аналитик для бизнеса ↗" class="Ai" style="width: 424px; height: 64px; color: #F4F5EF; font-size: 24px; font-family: Manrope; font-weight: 600; line-height: 32px; word-wrap: break-word">AI-аналитик для бизнеса</div>
+          <div data-layer="Данные маркетинга, продаж и задач в регулярных отчётах для руководителя." style="width: 424px; height: 72px; color: #A4ABA5; font-size: 16px; font-family: Manrope; font-weight: 400; line-height: 24px; word-wrap: break-word">Данные маркетинга, продаж и задач в регулярных отчётах для руководителя.</div>
+          <div data-layer="АВТОМАТИЗАЦИЯ · AI" class="Ai" style="width: 424px; color: #A4ABA5; font-size: 12px; font-family: Manrope; font-weight: 600; line-height: 18px; letter-spacing: 0.96px; word-wrap: break-word">АВТОМАТИЗАЦИЯ · AI</div>
+        </div>
+      </div>
+      <div data-layer="Проект / FitFuel" class="Fitfuel" style="width: 424px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+        <div data-layer="Превью / FitFuel" class="Fitfuel" style="width: 424px; height: 238px; position: relative; background: #D6B59D; overflow: hidden; border-radius: 16px">
+          <div data-layer="FitFuel" class="Fitfuel" style="width: 376px; left: 24px; top: 22px; position: absolute; color: #111313; font-size: 18px; font-family: Manrope; font-weight: 600; line-height: 26px; word-wrap: break-word">FitFuel</div>
+          <div data-layer="Плейсхолдер интерфейса" style="width: 376px; height: 188px; left: 24px; top: 70px; position: absolute; background: #F4F5EF; border-radius: 10px">
+            <div data-layer="Изображение товара" style="width: 106.67px; height: 98px; left: 14px; top: 14px; position: absolute; background: #D6B59D; border-radius: 8px"></div>
+            <div data-layer="Название товара" style="width: 88.67px; height: 7px; left: 14px; top: 126px; position: absolute; background: #A4ABA5; border-radius: 3px"></div>
+            <div data-layer="Изображение товара" style="width: 106.67px; height: 98px; left: 134.67px; top: 14px; position: absolute; background: #D5F77A; border-radius: 8px"></div>
+            <div data-layer="Название товара" style="width: 88.67px; height: 7px; left: 134.67px; top: 126px; position: absolute; background: #A4ABA5; border-radius: 3px"></div>
+            <div data-layer="Изображение товара" style="width: 106.67px; height: 98px; left: 255.33px; top: 14px; position: absolute; background: #D6B59D; border-radius: 8px"></div>
+            <div data-layer="Название товара" style="width: 88.67px; height: 7px; left: 255.33px; top: 126px; position: absolute; background: #A4ABA5; border-radius: 3px"></div>
+          </div>
+        </div>
+        <div data-layer="Описание проекта" style="width: 424px; padding-top: 24px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 12px; display: flex">
+          <div data-layer="FitFuel ↗" class="Fitfuel" style="width: 424px; height: 64px; color: #F4F5EF; font-size: 24px; font-family: Manrope; font-weight: 600; line-height: 32px; word-wrap: break-word">FitFuel</div>
+          <div data-layer="Магазин с каталогом, корзиной, промокодами и оплатой." style="width: 424px; height: 72px; color: #A4ABA5; font-size: 16px; font-family: Manrope; font-weight: 400; line-height: 24px; word-wrap: break-word">Магазин с каталогом, корзиной, промокодами и оплатой.</div>
+          <div data-layer="ПРИЛОЖЕНИЯ" style="width: 424px; color: #A4ABA5; font-size: 12px; font-family: Manrope; font-weight: 600; line-height: 18px; letter-spacing: 0.96px; word-wrap: break-word">ПРИЛОЖЕНИЯ</div>
+        </div>
+      </div>
+      <div data-layer="Проект / WoodLandToys" class="Woodlandtoys" style="width: 424px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+        <div data-layer="Превью / WoodLandToys" class="Woodlandtoys" style="width: 424px; height: 238px; position: relative; background: #A8C5E8; overflow: hidden; border-radius: 16px">
+          <div data-layer="WoodLandToys" class="Woodlandtoys" style="width: 376px; left: 24px; top: 22px; position: absolute; color: #111313; font-size: 18px; font-family: Manrope; font-weight: 600; line-height: 26px; word-wrap: break-word">WoodLandToys</div>
+          <div data-layer="Плейсхолдер интерфейса" style="width: 376px; height: 188px; left: 24px; top: 70px; position: absolute; background: #F4F5EF; border-radius: 10px">
+            <div data-layer="Регистрация" style="width: 340px; left: 18px; top: 14px; position: absolute; color: #111313; font-size: 16px; font-family: Manrope; font-weight: 600; line-height: 24px; word-wrap: break-word">Регистрация</div>
+            <div data-layer="Поле формы" style="width: 340px; height: 24px; left: 18px; top: 54px; position: absolute; background: #E3E8DF; border-radius: 6px"></div>
+            <div data-layer="Поле формы" style="width: 340px; height: 24px; left: 18px; top: 88px; position: absolute; background: #E3E8DF; border-radius: 6px"></div>
+            <div data-layer="Поле формы" style="width: 340px; height: 24px; left: 18px; top: 122px; position: absolute; background: #E3E8DF; border-radius: 6px"></div>
+          </div>
+        </div>
+        <div data-layer="Описание проекта" style="width: 424px; padding-top: 24px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 12px; display: flex">
+          <div data-layer="WoodLandToys ↗" class="Woodlandtoys" style="width: 424px; height: 64px; color: #F4F5EF; font-size: 24px; font-family: Manrope; font-weight: 600; line-height: 32px; word-wrap: break-word">WoodLandToys</div>
+          <div data-layer="Регистрация покупателей, передача данных в Bitrix24 и управление доступом." class="Bitrix24" style="width: 424px; height: 72px; color: #A4ABA5; font-size: 16px; font-family: Manrope; font-weight: 400; line-height: 24px; word-wrap: break-word">Регистрация покупателей, передача данных в Bitrix24 и управление доступом.</div>
+          <div data-layer="АВТОМАТИЗАЦИЯ" style="width: 424px; color: #A4ABA5; font-size: 12px; font-family: Manrope; font-weight: 600; line-height: 18px; letter-spacing: 0.96px; word-wrap: break-word">АВТОМАТИЗАЦИЯ</div>
+        </div>
+      </div>
+    </div>
+    <div data-layer="Проекты / ряд 2" class="2" style="width: 1312px; justify-content: flex-start; align-items: flex-start; gap: 20px; display: inline-flex">
+      <div data-layer="Проект / SkyboxTV" class="Skyboxtv" style="width: 424px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+        <div data-layer="Превью / SkyboxTV" class="Skyboxtv" style="width: 424px; height: 238px; position: relative; background: #B9A7E8; overflow: hidden; border-radius: 16px">
+          <div data-layer="SkyboxTV" class="Skyboxtv" style="width: 376px; left: 24px; top: 22px; position: absolute; color: #111313; font-size: 18px; font-family: Manrope; font-weight: 600; line-height: 26px; word-wrap: break-word">SkyboxTV</div>
+          <div data-layer="Плейсхолдер интерфейса" style="width: 376px; height: 188px; left: 24px; top: 70px; position: absolute; background: #F4F5EF; border-radius: 10px">
+            <div data-layer="Обложка сериала" style="width: 104px; height: 154px; left: 14px; top: 14px; position: absolute; background: #A8C5E8; border-radius: 8px"></div>
+            <div data-layer="Обложка сериала" style="width: 104px; height: 154px; left: 132px; top: 14px; position: absolute; background: #B9A7E8; border-radius: 8px"></div>
+            <div data-layer="Обложка сериала" style="width: 104px; height: 154px; left: 250px; top: 14px; position: absolute; background: #D6B59D; border-radius: 8px"></div>
+          </div>
+        </div>
+        <div data-layer="Описание проекта" style="width: 424px; padding-top: 24px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 12px; display: flex">
+          <div data-layer="SkyboxTV ↗" class="Skyboxtv" style="width: 424px; height: 64px; color: #F4F5EF; font-size: 24px; font-family: Manrope; font-weight: 600; line-height: 32px; word-wrap: break-word">SkyboxTV</div>
+          <div data-layer="Приложение для коротких сериалов с видеолентой и платной подпиской." style="width: 424px; height: 72px; color: #A4ABA5; font-size: 16px; font-family: Manrope; font-weight: 400; line-height: 24px; word-wrap: break-word">Приложение для коротких сериалов с видеолентой и платной подпиской.</div>
+          <div data-layer="ПРИЛОЖЕНИЯ" style="width: 424px; color: #A4ABA5; font-size: 12px; font-family: Manrope; font-weight: 600; line-height: 18px; letter-spacing: 0.96px; word-wrap: break-word">ПРИЛОЖЕНИЯ</div>
+        </div>
+      </div>
+      <div data-layer="Проект / AI-консультант для бренда одежды" class="Ai" style="width: 424px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+        <div data-layer="Превью / AI-консультант для бренда одежды" class="Ai" style="width: 424px; height: 238px; position: relative; background: #D6B59D; overflow: hidden; border-radius: 16px">
+          <div data-layer="AI-консультант для бренда одежды" class="Ai" style="width: 376px; left: 24px; top: 22px; position: absolute; color: #111313; font-size: 18px; font-family: Manrope; font-weight: 600; line-height: 26px; word-wrap: break-word">AI-консультант для бренда одежды</div>
+          <div data-layer="Плейсхолдер интерфейса" style="width: 376px; height: 188px; left: 24px; top: 70px; position: absolute; background: #F4F5EF; border-radius: 10px">
+            <div data-layer="Вопрос" style="width: 290px; height: 37px; left: 68px; top: 18px; position: absolute; background: #D6B59D; border-radius: 10px"></div>
+            <div data-layer="Ответ" style="width: 300px; height: 70px; left: 16px; top: 72px; position: absolute; background: #E3E8DF; border-radius: 10px"></div>
+            <div data-layer="Строка ответа" style="width: 250px; height: 5px; left: 28px; top: 88px; position: absolute; background: #A4ABA5; border-radius: 3px"></div>
+            <div data-layer="Строка ответа" style="width: 224px; height: 5px; left: 28px; top: 102px; position: absolute; background: #A4ABA5; border-radius: 3px"></div>
+            <div data-layer="Строка ответа" style="width: 198px; height: 5px; left: 28px; top: 116px; position: absolute; background: #A4ABA5; border-radius: 3px"></div>
+          </div>
+        </div>
+        <div data-layer="Описание проекта" style="width: 424px; padding-top: 24px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 12px; display: flex">
+          <div data-layer="AI-консультант для бренда одежды ↗" class="Ai" style="width: 424px; height: 64px; color: #F4F5EF; font-size: 24px; font-family: Manrope; font-weight: 600; line-height: 32px; word-wrap: break-word">AI-консультант<br/>для бренда одежды</div>
+          <div data-layer="Ответы покупателям по ассортименту, ценам и акциям." style="width: 424px; height: 72px; color: #A4ABA5; font-size: 16px; font-family: Manrope; font-weight: 400; line-height: 24px; word-wrap: break-word">Ответы покупателям по ассортименту, ценам и акциям.</div>
+          <div data-layer="AI-РЕШЕНИЯ" class="Ai" style="width: 424px; color: #A4ABA5; font-size: 12px; font-family: Manrope; font-weight: 600; line-height: 18px; letter-spacing: 0.96px; word-wrap: break-word">AI-РЕШЕНИЯ</div>
+        </div>
+      </div>
+      <div data-layer="Проект / WorkFlow" class="Workflow" style="width: 424px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+        <div data-layer="Превью / WorkFlow" class="Workflow" style="width: 424px; height: 238px; position: relative; background: #D5F77A; overflow: hidden; border-radius: 16px">
+          <div data-layer="WorkFlow" class="Workflow" style="width: 376px; left: 24px; top: 22px; position: absolute; color: #111313; font-size: 18px; font-family: Manrope; font-weight: 600; line-height: 26px; word-wrap: break-word">WorkFlow</div>
+          <div data-layer="Плейсхолдер интерфейса" style="width: 376px; height: 188px; left: 24px; top: 70px; position: absolute; background: #F4F5EF; border-radius: 10px">
+            <div data-layer="Колонка задач" style="width: 109.33px; height: 164px; left: 12px; top: 12px; position: absolute; background: #E3E8DF; border-radius: 8px"></div>
+            <div data-layer="Задача" style="width: 93.33px; height: 36px; left: 20px; top: 40px; position: absolute; background: white; border-radius: 6px"></div>
+            <div data-layer="Задача" style="width: 93.33px; height: 36px; left: 20px; top: 88px; position: absolute; background: white; border-radius: 6px"></div>
+            <div data-layer="Колонка задач" style="width: 109.33px; height: 164px; left: 133.33px; top: 12px; position: absolute; background: #E3E8DF; border-radius: 8px"></div>
+            <div data-layer="Задача" style="width: 93.33px; height: 36px; left: 141.33px; top: 40px; position: absolute; background: white; border-radius: 6px"></div>
+            <div data-layer="Задача" style="width: 93.33px; height: 36px; left: 141.33px; top: 88px; position: absolute; background: white; border-radius: 6px"></div>
+            <div data-layer="Колонка задач" style="width: 109.33px; height: 164px; left: 254.67px; top: 12px; position: absolute; background: #E3E8DF; border-radius: 8px"></div>
+            <div data-layer="Задача" style="width: 93.33px; height: 36px; left: 262.67px; top: 40px; position: absolute; background: white; border-radius: 6px"></div>
+            <div data-layer="Задача" style="width: 93.33px; height: 36px; left: 262.67px; top: 88px; position: absolute; background: white; border-radius: 6px"></div>
+          </div>
+        </div>
+        <div data-layer="Описание проекта" style="width: 424px; padding-top: 24px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 12px; display: flex">
+          <div data-layer="WorkFlow ↗" class="Workflow" style="width: 424px; height: 64px; color: #F4F5EF; font-size: 24px; font-family: Manrope; font-weight: 600; line-height: 32px; word-wrap: break-word">WorkFlow</div>
+          <div data-layer="Макет и визуальная часть приложения для управления задачами." style="width: 424px; height: 72px; color: #A4ABA5; font-size: 16px; font-family: Manrope; font-weight: 400; line-height: 24px; word-wrap: break-word">Макет и визуальная часть приложения для управления задачами.</div>
+          <div data-layer="ДИЗАЙН ПРИЛОЖЕНИЯ" style="width: 424px; color: #A4ABA5; font-size: 12px; font-family: Manrope; font-weight: 600; line-height: 18px; letter-spacing: 0.96px; word-wrap: break-word">ДИЗАЙН ПРИЛОЖЕНИЯ</div>
+        </div>
+      </div>
+    </div>
+    <div data-layer="Проекты выполнены с участием команды в составе Swift Agency." class="SwiftAgency" style="width: 1312px; color: #A4ABA5; font-size: 13px; font-family: Manrope; font-weight: 400; line-height: 20px; word-wrap: break-word">Проекты выполнены с участием команды в составе Swift Agency.</div>
+  </div>
+  <div data-layer="04 / Услуги" style="width: 1440px; padding-left: 64px; padding-right: 64px; padding-top: 72px; padding-bottom: 72px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 36px; display: flex">
+    <div data-layer="Заголовок и описание" style="width: 1312px; justify-content: flex-start; align-items: flex-start; gap: 80px; display: inline-flex">
+      <div data-layer="Заголовок" style="width: 696px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 18px; display: inline-flex">
+        <div data-layer="02 / УСЛУГИ" style="width: 696px; color: #D5F77A; font-size: 12px; font-family: Manrope; font-weight: 600; line-height: 18px; letter-spacing: 0.96px; word-wrap: break-word">02 / УСЛУГИ</div>
+        <div data-layer="Что можем сделать для вашего бизнеса" style="width: 696px; color: #F4F5EF; font-size: 42px; font-family: Manrope; font-weight: 500; line-height: 50px; word-wrap: break-word">Что можем сделать<br/>для вашего бизнеса</div>
+      </div>
+      <div data-layer="Описание" style="width: 536px; padding-top: 36px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+        <div data-layer="Подбираем формат под задачу, пользователей и системы, которые уже работают в ком" style="width: 536px; color: #A4ABA5; font-size: 18px; font-family: Manrope; font-weight: 400; line-height: 28px; word-wrap: break-word">Подбираем формат под задачу, пользователей и системы, которые уже работают в компании.</div>
+      </div>
+    </div>
+    <div data-layer="Услуги / ряд 1" class="1" style="width: 1312px; justify-content: flex-start; align-items: flex-start; gap: 20px; display: inline-flex">
+      <div data-layer="Карточка / Веб-сервисы
+      и личные кабинеты" style="width: 646px; height: 260px; padding: 28px; background: #1B1E1D; border-radius: 20px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 20px; display: inline-flex">
+        <div data-layer="01  ↗" style="width: 590px; color: #D5F77A; font-size: 12px; font-family: Manrope; font-weight: 600; line-height: 18px; letter-spacing: 0.96px; word-wrap: break-word">01  →</div>
+        <div data-layer="Веб-сервисы и личные кабинеты" style="width: 590px; height: 64px; color: #F4F5EF; font-size: 24px; font-family: Manrope; font-weight: 600; line-height: 32px; word-wrap: break-word">Веб-сервисы<br/>и личные кабинеты</div>
+        <div data-layer="Клиентские сервисы и внутренние инструменты: от заявок до документов и интеграци" style="width: 590px; color: #A4ABA5; font-size: 16px; font-family: Manrope; font-weight: 400; line-height: 24px; word-wrap: break-word">Клиентские сервисы и внутренние инструменты: от заявок до документов и интеграций.</div>
+      </div>
+      <div data-layer="Карточка / Сайты
+      на заказ" style="width: 646px; height: 260px; padding: 28px; background: #1B1E1D; border-radius: 20px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 20px; display: inline-flex">
+        <div data-layer="02  ↗" style="width: 590px; color: #A8C5E8; font-size: 12px; font-family: Manrope; font-weight: 600; line-height: 18px; letter-spacing: 0.96px; word-wrap: break-word">02  →</div>
+        <div data-layer="Сайты на заказ" style="width: 590px; height: 64px; color: #F4F5EF; font-size: 24px; font-family: Manrope; font-weight: 600; line-height: 32px; word-wrap: break-word">Сайты<br/>на заказ</div>
+        <div data-layer="Сайты компаний, лендинги и каталоги с понятной структурой и удобным обращением." style="width: 590px; color: #A4ABA5; font-size: 16px; font-family: Manrope; font-weight: 400; line-height: 24px; word-wrap: break-word">Сайты компаний, лендинги и каталоги с понятной структурой и удобным обращением.</div>
+      </div>
+    </div>
+    <div data-layer="Услуги / ряд 2" class="2" style="width: 1312px; justify-content: flex-start; align-items: flex-start; gap: 20px; display: inline-flex">
+      <div data-layer="Карточка / Telegram Mini Apps
+      и боты" class="TelegramMiniApps" style="width: 646px; height: 260px; padding: 28px; background: #1B1E1D; border-radius: 20px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 20px; display: inline-flex">
+        <div data-layer="03  ↗" style="width: 590px; color: #B9A7E8; font-size: 12px; font-family: Manrope; font-weight: 600; line-height: 18px; letter-spacing: 0.96px; word-wrap: break-word">03  →</div>
+        <div data-layer="Telegram Mini Apps и боты" class="TelegramMiniApps" style="width: 590px; height: 64px; color: #F4F5EF; font-size: 24px; font-family: Manrope; font-weight: 600; line-height: 32px; word-wrap: break-word">Telegram Mini Apps<br/>и боты</div>
+        <div data-layer="Продажи, запись, поддержка и уведомления внутри Telegram." class="Telegram" style="width: 590px; color: #A4ABA5; font-size: 16px; font-family: Manrope; font-weight: 400; line-height: 24px; word-wrap: break-word">Продажи, запись, поддержка и уведомления внутри Telegram.</div>
+      </div>
+      <div data-layer="Карточка / Автоматизация
+      с помощью AI" class="Ai" style="width: 646px; height: 260px; padding: 28px; background: #1B1E1D; border-radius: 20px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 20px; display: inline-flex">
+        <div data-layer="04  ↗" style="width: 590px; color: #D6B59D; font-size: 12px; font-family: Manrope; font-weight: 600; line-height: 18px; letter-spacing: 0.96px; word-wrap: break-word">04  →</div>
+        <div data-layer="Автоматизация с помощью AI" class="Ai" style="width: 590px; height: 64px; color: #F4F5EF; font-size: 24px; font-family: Manrope; font-weight: 600; line-height: 32px; word-wrap: break-word">Автоматизация<br/>с помощью AI</div>
+        <div data-layer="Работа с обращениями, документами и отчётами с помощью AI." class="Ai" style="width: 590px; color: #A4ABA5; font-size: 16px; font-family: Manrope; font-weight: 400; line-height: 24px; word-wrap: break-word">Работа с обращениями, документами и отчётами с помощью AI.</div>
+      </div>
+    </div>
+  </div>
+  <div data-layer="05 / Работа над проектом" style="width: 1440px; padding-left: 64px; padding-right: 64px; padding-top: 72px; padding-bottom: 72px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 36px; display: flex">
+    <div data-layer="Заголовок и описание" style="width: 1312px; justify-content: flex-start; align-items: flex-start; gap: 80px; display: inline-flex">
+      <div data-layer="Заголовок" style="width: 696px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 18px; display: inline-flex">
+        <div data-layer="03 / ПРОЦЕСС" style="width: 696px; color: #D5F77A; font-size: 12px; font-family: Manrope; font-weight: 600; line-height: 18px; letter-spacing: 0.96px; word-wrap: break-word">03 / ПРОЦЕСС</div>
+        <div data-layer="От разбора задачи до запуска" style="width: 696px; color: #F4F5EF; font-size: 42px; font-family: Manrope; font-weight: 500; line-height: 50px; word-wrap: break-word">От разбора задачи<br/>до запуска</div>
+      </div>
+      <div data-layer="Описание" style="width: 536px; padding-top: 36px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+        <div data-layer="Работаем по этапам. Согласуем результат каждого шага и показываем, что будет дал" style="width: 536px; color: #A4ABA5; font-size: 18px; font-family: Manrope; font-weight: 400; line-height: 28px; word-wrap: break-word">Работаем по этапам. Согласуем результат каждого шага и показываем, что будет дальше.</div>
+      </div>
+    </div>
+    <div data-layer="Этапы / 4 колонки" class="4" style="width: 1312px; justify-content: flex-start; align-items: flex-start; gap: 20px; display: inline-flex">
+      <div data-layer="Карточка / Разбираем задачу" style="width: 313px; height: 276px; padding: 28px; background: #1B1E1D; border-radius: 20px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 20px; display: inline-flex">
+        <div data-layer="01" style="width: 257px; color: #D5F77A; font-size: 12px; font-family: Manrope; font-weight: 600; line-height: 18px; letter-spacing: 0.96px; word-wrap: break-word">01</div>
+        <div data-layer="Разбираем задачу" style="width: 257px; height: 64px; color: #F4F5EF; font-size: 24px; font-family: Manrope; font-weight: 600; line-height: 32px; word-wrap: break-word">Разбираем задачу</div>
+        <div data-layer="Изучаем процесс, пользователей и ограничения." style="width: 257px; color: #A4ABA5; font-size: 16px; font-family: Manrope; font-weight: 400; line-height: 24px; word-wrap: break-word">Изучаем процесс, пользователей и ограничения.</div>
+      </div>
+      <div data-layer="Карточка / Согласуем план" style="width: 313px; height: 276px; padding: 28px; background: #1B1E1D; border-radius: 20px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 20px; display: inline-flex">
+        <div data-layer="02" style="width: 257px; color: #B9A7E8; font-size: 12px; font-family: Manrope; font-weight: 600; line-height: 18px; letter-spacing: 0.96px; word-wrap: break-word">02</div>
+        <div data-layer="Согласуем план" style="width: 257px; height: 64px; color: #F4F5EF; font-size: 24px; font-family: Manrope; font-weight: 600; line-height: 32px; word-wrap: break-word">Согласуем план</div>
+        <div data-layer="Определяем первую версию, этапы, сроки и стоимость." style="width: 257px; color: #A4ABA5; font-size: 16px; font-family: Manrope; font-weight: 400; line-height: 24px; word-wrap: break-word">Определяем первую версию, этапы, сроки и стоимость.</div>
+      </div>
+      <div data-layer="Карточка / Делаем продукт" style="width: 313px; height: 276px; padding: 28px; background: #1B1E1D; border-radius: 20px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 20px; display: inline-flex">
+        <div data-layer="03" style="width: 257px; color: #D5F77A; font-size: 12px; font-family: Manrope; font-weight: 600; line-height: 18px; letter-spacing: 0.96px; word-wrap: break-word">03</div>
+        <div data-layer="Делаем продукт" style="width: 257px; height: 64px; color: #F4F5EF; font-size: 24px; font-family: Manrope; font-weight: 600; line-height: 32px; word-wrap: break-word">Делаем продукт</div>
+        <div data-layer="Показываем промежуточные результаты и собираем обратную связь." style="width: 257px; color: #A4ABA5; font-size: 16px; font-family: Manrope; font-weight: 400; line-height: 24px; word-wrap: break-word">Показываем промежуточные результаты и собираем обратную связь.</div>
+      </div>
+      <div data-layer="Карточка / Запускаем" style="width: 313px; height: 276px; padding: 28px; background: #1B1E1D; border-radius: 20px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 20px; display: inline-flex">
+        <div data-layer="04" style="width: 257px; color: #D5F77A; font-size: 12px; font-family: Manrope; font-weight: 600; line-height: 18px; letter-spacing: 0.96px; word-wrap: break-word">04</div>
+        <div data-layer="Запускаем" style="width: 257px; height: 64px; color: #F4F5EF; font-size: 24px; font-family: Manrope; font-weight: 600; line-height: 32px; word-wrap: break-word">Запускаем</div>
+        <div data-layer="Проверяем сценарии и обсуждаем дальнейшее развитие." style="width: 257px; color: #A4ABA5; font-size: 16px; font-family: Manrope; font-weight: 400; line-height: 24px; word-wrap: break-word">Проверяем сценарии и обсуждаем дальнейшее развитие.</div>
+      </div>
+    </div>
+  </div>
+  <div data-layer="06 / Вопросы" style="width: 1440px; padding-left: 64px; padding-right: 64px; padding-top: 72px; padding-bottom: 72px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 36px; display: flex">
+    <div data-layer="Заголовок и описание" style="width: 1312px; justify-content: flex-start; align-items: flex-start; gap: 80px; display: inline-flex">
+      <div data-layer="Заголовок" style="width: 696px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 18px; display: inline-flex">
+        <div data-layer="05 / ВОПРОСЫ" style="width: 696px; color: #D5F77A; font-size: 12px; font-family: Manrope; font-weight: 600; line-height: 18px; letter-spacing: 0.96px; word-wrap: break-word">04 / ВОПРОСЫ</div>
+        <div data-layer="Что важно перед стартом" style="width: 696px; color: #F4F5EF; font-size: 42px; font-family: Manrope; font-weight: 500; line-height: 50px; word-wrap: break-word">Что важно<br/>перед стартом</div>
+      </div>
+      <div data-layer="Описание" style="width: 536px; padding-top: 36px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+        <div data-layer="Начинаем с задачи и ограничений. Поможем определить первый шаг, даже если готово" style="width: 536px; color: #A4ABA5; font-size: 18px; font-family: Manrope; font-weight: 400; line-height: 28px; word-wrap: break-word">Начинаем с задачи и ограничений. Поможем определить первый шаг, даже если готового ТЗ ещё нет.</div>
+      </div>
+    </div>
+    <div data-layer="Вопрос / Можно начать без технического задания?" style="width: 1312px; justify-content: flex-start; align-items: flex-start; gap: 80px; display: inline-flex">
+      <div data-layer="Можно начать без технического задания?" style="width: 576px; color: #F4F5EF; font-size: 22px; font-family: Manrope; font-weight: 600; line-height: 30px; word-wrap: break-word">Можно начать без технического задания?</div>
+      <div data-layer="Да. Расскажите о задаче и текущем процессе. Поможем сформулировать требования и" style="width: 656px; color: #A4ABA5; font-size: 17px; font-family: Manrope; font-weight: 400; line-height: 26px; word-wrap: break-word">Да. Расскажите о задаче и текущем процессе. Поможем сформулировать требования и определить состав первой версии.</div>
+    </div>
+    <div data-layer="Разделитель" style="width: 1312px; height: 1px; position: relative; background: #343936"></div>
+    <div data-layer="Вопрос / Как оцениваете сроки и стоимость?" style="width: 1312px; justify-content: flex-start; align-items: flex-start; gap: 80px; display: inline-flex">
+      <div data-layer="Как оцениваете сроки и стоимость?" style="width: 576px; color: #F4F5EF; font-size: 22px; font-family: Manrope; font-weight: 600; line-height: 30px; word-wrap: break-word">Как оцениваете сроки и стоимость?</div>
+      <div data-layer="После разбора функций и интеграций. Согласуем этапы и результат, который должен" style="width: 656px; color: #A4ABA5; font-size: 17px; font-family: Manrope; font-weight: 400; line-height: 26px; word-wrap: break-word">После разбора функций и интеграций. Согласуем этапы и результат, который должен получиться на каждом из них.</div>
+    </div>
+    <div data-layer="Разделитель" style="width: 1312px; height: 1px; position: relative; background: #343936"></div>
+    <div data-layer="Вопрос / Работаете с существующими продуктами?" style="width: 1312px; justify-content: flex-start; align-items: flex-start; gap: 80px; display: inline-flex">
+      <div data-layer="Работаете с существующими продуктами?" style="width: 576px; color: #F4F5EF; font-size: 22px; font-family: Manrope; font-weight: 600; line-height: 30px; word-wrap: break-word">Работаете с существующими продуктами?</div>
+      <div data-layer="Да. Можем доработать интерфейс, добавить функции и связать продукт с другими сис" style="width: 656px; color: #A4ABA5; font-size: 17px; font-family: Manrope; font-weight: 400; line-height: 26px; word-wrap: break-word">Да. Можем доработать интерфейс, добавить функции и связать продукт с другими системами.</div>
+    </div>
+    <div data-layer="Разделитель" style="width: 1312px; height: 1px; position: relative; background: #343936"></div>
+  </div>
+  <div data-layer="07 / Контакты" style="width: 1440px; padding: 64px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 36px; display: flex">
+    <div data-layer="Обращение / 2 колонки" class="2" style="width: 1312px; justify-content: flex-start; align-items: flex-start; gap: 80px; display: inline-flex">
+      <div data-layer="Приглашение" style="width: 576px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 24px; display: inline-flex">
+        <div data-layer="06 / ДАВАЙТЕ ОБСУДИМ" style="width: 576px; color: #D5F77A; font-size: 12px; font-family: Manrope; font-weight: 600; line-height: 18px; letter-spacing: 0.96px; word-wrap: break-word">05 / ДАВАЙТЕ ОБСУДИМ</div>
+        <div data-layer="Есть задача? Найдём решение." style="width: 576px; color: #F4F5EF; font-size: 48px; font-family: Manrope; font-weight: 500; line-height: 58px; word-wrap: break-word">Есть задача?<br/>Найдём решение.</div>
+        <div data-layer="Опишите, что хотите создать или улучшить. Разберёмся в задаче и предложим следую" style="width: 520px; color: #A4ABA5; font-size: 18px; font-family: Manrope; font-weight: 400; line-height: 28px; word-wrap: break-word">Опишите, что хотите создать или улучшить. Разберёмся в задаче и предложим следующий шаг.</div>
+        <div data-layer="Контакты / графика" style="width: 520px; height: 156px; position: relative; background: #1B1E1D; border-radius: 20px">
+          <div data-layer="Орбита" style="width: 112px; height: 64.96px; left: 338px; top: 55px; position: absolute; border-radius: 9999px; border: 1.50px #B9A7E8 solid"></div>
+          <div data-layer="Орбита" style="width: 64.96px; height: 112px; left: 361.52px; top: 32.60px; position: absolute; border-radius: 9999px; border: 1.50px #B9A7E8 solid"></div>
+          <div data-svg-wrapper data-layer="Ellipse" class="Ellipse" style="left: 433.20px; top: 67px; position: absolute">
+            <svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <circle cx="7" cy="7" r="7" fill="#B9A7E8"/>
+            </svg>
+          </div>
+          <div data-layer="От задачи к первой версии." style="width: 320px; left: 24px; top: 34px; position: absolute; color: #F4F5EF; font-size: 26px; font-family: Manrope; font-weight: 500; line-height: 36px; word-wrap: break-word">От задачи<br/>к первой версии.</div>
+        </div>
+      </div>
+      <div data-layer="Форма обращения" style="width: 656px; padding: 28px; background: #1B1E1D; border-radius: 20px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 18px; display: inline-flex">
+        <div data-layer="Поле / Как к вам обращаться" style="width: 600px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 10px; display: flex">
+          <div data-layer="Как к вам обращаться" style="width: 600px; color: #F4F5EF; font-size: 14px; font-family: Manrope; font-weight: 500; line-height: 20px; word-wrap: break-word">Как к вам обращаться</div>
+          <div data-layer="Ввод / Как к вам обращаться" style="width: 600px; height: 54px; position: relative; background: #232725; border-radius: 10px">
+            <div data-layer="Имя" style="width: 568px; left: 16px; top: 16px; position: absolute; color: #A4ABA5; font-size: 16px; font-family: Manrope; font-weight: 400; line-height: 24px; word-wrap: break-word">Имя</div>
+          </div>
+        </div>
+        <div data-layer="Поле / Как с вами связаться" style="width: 600px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 10px; display: flex">
+          <div data-layer="Как с вами связаться" style="width: 600px; color: #F4F5EF; font-size: 14px; font-family: Manrope; font-weight: 500; line-height: 20px; word-wrap: break-word">Как с вами связаться</div>
+          <div data-layer="Ввод / Как с вами связаться" style="width: 600px; height: 54px; position: relative; background: #232725; border-radius: 10px">
+            <div data-layer="Telegram, телефон или email" class="TelegramEmail" style="width: 568px; left: 16px; top: 16px; position: absolute; color: #A4ABA5; font-size: 16px; font-family: Manrope; font-weight: 400; line-height: 24px; word-wrap: break-word">Telegram, телефон или email</div>
+          </div>
+        </div>
+        <div data-layer="Поле / О задаче" style="width: 600px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 10px; display: flex">
+          <div data-layer="О задаче" style="width: 600px; color: #F4F5EF; font-size: 14px; font-family: Manrope; font-weight: 500; line-height: 20px; word-wrap: break-word">О задаче</div>
+          <div data-layer="Ввод / О задаче" style="width: 600px; height: 118px; position: relative; background: #232725; border-radius: 10px">
+            <div data-layer="Что хотите создать или улучшить?" style="width: 568px; left: 16px; top: 16px; position: absolute; color: #A4ABA5; font-size: 16px; font-family: Manrope; font-weight: 400; line-height: 24px; word-wrap: break-word">Что хотите создать или улучшить?</div>
+          </div>
+        </div>
+        <div data-layer="Согласие" style="width: 600px; justify-content: flex-start; align-items: flex-start; gap: 12px; display: inline-flex">
+          <div data-svg-wrapper data-layer="Чекбокс" style="position: relative">
+            <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <rect x="0.5" y="0.5" width="19" height="19" rx="3.5" stroke="#A4ABA5"/>
+            </svg>
+          </div>
+          <div data-layer="Согласен с обработкой персональных данных и политикой конфиденциальности" style="width: 568px; color: #A4ABA5; font-size: 13px; font-family: Manrope; font-weight: 400; line-height: 20px; word-wrap: break-word">Согласен с обработкой персональных данных<br/>и политикой конфиденциальности</div>
+        </div>
+        <div data-layer="Кнопка / Отправить заявку ↗" style="width: 600px; height: 52px; background: #F4F5EF; border-radius: 26px; justify-content: center; align-items: center; display: inline-flex">
+          <div data-layer="Отправить заявку ↗" style="width: 568px; text-align: center; color: #111313; font-size: 14px; font-family: Manrope; font-weight: 600; line-height: 20px; word-wrap: break-word">Отправить заявку →</div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div data-layer="08 / Подвал" style="width: 1440px; padding-left: 64px; padding-right: 64px; padding-top: 32px; padding-bottom: 32px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 28px; display: flex">
+    <div data-layer="Разделитель" style="width: 1312px; height: 1px; position: relative; background: #343936"></div>
+    <div data-layer="Подвал / строка" style="width: 1312px; justify-content: flex-start; align-items: center; gap: 32px; display: inline-flex">
+      <div data-layer="kpi_dev" class="KpiDev" style="width: 236px; color: #F4F5EF; font-size: 36px; font-family: Manrope; font-weight: 600; line-height: 44px; word-wrap: break-word">kpi_dev</div>
+      <div data-layer="Приложения, сайты и автоматизация для клиентов и команд." style="width: 560px; color: #A4ABA5; font-size: 15px; font-family: Manrope; font-weight: 400; line-height: 22px; word-wrap: break-word">Приложения, сайты и автоматизация<br/>для клиентов и команд.</div>
+      <div data-layer="© kpi_dev Обсудить проект ↗" class="KpiDev" style="width: 452px; text-align: right; color: #A4ABA5; font-size: 14px; font-family: Manrope; font-weight: 500; line-height: 22px; word-wrap: break-word">© kpi_dev<br/>Обсудить проект →</div>
+    </div>
+  </div>
+</div>
